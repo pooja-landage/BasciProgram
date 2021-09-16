@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasciProgram", "BasciProgram\BasciProgram.csproj", "{989468E3-12CE-490E-9BAF-B607FC646217}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{989468E3-12CE-490E-9BAF-B607FC646217}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{989468E3-12CE-490E-9BAF-B607FC646217}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{989468E3-12CE-490E-9BAF-B607FC646217}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{989468E3-12CE-490E-9BAF-B607FC646217}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {458D19C6-458D-472B-A966-1AC045304707}
+	EndGlobalSection
+EndGlobal
